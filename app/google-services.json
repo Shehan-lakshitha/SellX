@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46556819638",
+    "project_id": "sellx-e1542",
+    "storage_bucket": "sellx-e1542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46556819638:android:4d589592d71c2cc564b617",
+        "android_client_info": {
+          "package_name": "com.example.sellx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46556819638-dcqesq8baa2cl8h9f7afuk4duudhsilb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4b4JUN8JAde66jbuk77klrRpXVoIg1Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46556819638-dcqesq8baa2cl8h9f7afuk4duudhsilb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

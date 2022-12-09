@@ -1,8 +1,8 @@
 # SellX - A ecommerce app 
 SellX is a ecommerce app build for third party company.
-This code consists the,
--splash screen
--Sign in screen
+This code consists the,<br>
+-splash screen<br>
+-Sign in screen<br>
 -Login screen
 
 # Screen shots
